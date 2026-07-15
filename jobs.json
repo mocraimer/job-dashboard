@@ -1,0 +1,13 @@
+[
+  {
+    "id": "livekit-voice-ai-webrtc-engineer",
+    "title": "Voice AI / WebRTC Engineer",
+    "company": "LiveKit",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 9,
+    "rationale": "Real-time voice AI infra; direct hit on OpenAI Realtime + production voice-agent experience",
+    "date": "2026-07-14",
+    "tier": "c"
+  }
+]
