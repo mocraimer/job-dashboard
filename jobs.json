@@ -9,5 +9,115 @@
     "rationale": "Real-time voice AI infra; direct hit on OpenAI Realtime + production voice-agent experience",
     "date": "2026-07-14",
     "tier": "c"
+  },
+  {
+    "id": "orbit-product-engineer",
+    "title": "Product Engineer",
+    "company": "Orbit",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 6,
+    "rationale": "EU-remote, high-ownership TypeScript role with Bedrock and agentic-development workflows; seniority and AI-product depth need confirmation",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "namecoach-euphonia-founding-voice-ai-engineer",
+    "title": "Founding Voice AI Engineer",
+    "company": "Namecoach/Euphonia",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 7,
+    "rationale": "Exceptional voice-AI and evaluation overlap; remote role starts part-time and requires Pacific-hours overlap",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "bw-events-tech-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "company": "BW Events Tech",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Remote senior Python/Django/React ownership role, but AI tooling is workflow-level rather than the product focus",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "wave-lead-on-premises-sre",
+    "title": "Lead On-Premises SRE",
+    "company": "Wave",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 3,
+    "rationale": "EMEA-remote senior infrastructure leadership is location-compatible, but it is not an AI-focused role",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "zeitlabs-senior-frontend-engineer",
+    "title": "Senior Frontend Engineer",
+    "company": "Zeitlabs",
+    "link": "https://zurl.to/w5Pr",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Remote UTC+3 senior TypeScript/Next.js role with OpenAI/Vercel AI SDK exposure, but frontend platform work is not AI-focused",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "trinsic-senior-product-engineer",
+    "title": "Senior Product Engineer",
+    "company": "Trinsic",
+    "link": "https://www.trinsic.id/careers/senior-product-engineer?utm_source=HackerNews",
+    "source": "hn",
+    "score": 5,
+    "rationale": "Europe-remote senior backend/product role with strong TypeScript and Azure overlap, but AI is a development practice rather than the role's focus",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "ivpn-infrastructure-engineer-sysadmin",
+    "title": "Infrastructure Engineer / Sysadmin",
+    "company": "IVPN",
+    "link": "https://www.ivpn.net/en/infrastructure-engineer-sysadmin",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Fully remote within an Israel-compatible UTC range and strong Linux/Python fit, but infrastructure/security work is outside the AI focus",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "lokker-senior-backend-engineer-scanning-infrastructure",
+    "title": "Senior Backend Engineer, Scanning Infrastructure",
+    "company": "Lokker",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Remote Europe/US backend infrastructure role is adjacent to the stack, but it is non-AI and prefers time zones west of Israel",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "opsmill-principal-software-engineer",
+    "title": "Principal Software Engineer",
+    "company": "OpsMill",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 5,
+    "rationale": "Europe-remote principal Python/platform role with AI-first engineering, but the product work is infrastructure rather than GenAI systems",
+    "date": "2026-07-15",
+    "tier": "c"
+  },
+  {
+    "id": "livekit-forward-deployed-engineer-london",
+    "title": "Forward Deployed Engineer (Remote, London)",
+    "company": "LiveKit",
+    "link": "https://news.ycombinator.com/item?id=48822697",
+    "source": "hn",
+    "score": 7,
+    "rationale": "Direct voice-agent platform overlap and London-remote location; a separate role from the active LiveKit screen, so avoid duplicate outreach without checking scope",
+    "date": "2026-07-15",
+    "tier": "c"
   }
 ]
