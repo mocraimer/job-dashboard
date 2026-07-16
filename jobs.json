@@ -119,5 +119,115 @@
     "rationale": "Direct voice-agent platform overlap and London-remote location; a separate role from the active LiveKit screen, so avoid duplicate outreach without checking scope",
     "date": "2026-07-15",
     "tier": "c"
+  },
+  {
+    "id": "outlive-senior-full-stack-engineer-future-openings",
+    "title": "Senior Full Stack Engineer - Future Openings",
+    "company": "Outlive",
+    "link": "https://himalayas.app/companies/outlive/jobs/senior-full-stack-engineer-future-openings",
+    "source": "himalayas",
+    "score": 4,
+    "rationale": "Senior full-stack role may be remote, but it has no stated GenAI/LLM scope and is only a future-openings pool",
+    "date": "2026-07-16",
+    "tier": "unknown"
+  },
+  {
+    "id": "mayflower-gmbh-forward-deployed-engineer-m-w-d",
+    "title": "Forward Deployed Engineer (m/w/d)",
+    "company": "Mayflower GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/mayflower-gmbh/forward-deployed-engineer-wurzburg-326739",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Direct GenAI, model-serving, agent and voice-production fit, but the stated Würzburg location is outside the commute tiers",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "accenture-genai-agentic-ai-solutions-architect-all-genders",
+    "title": "GenAI / Agentic AI Solutions Architect (all genders)",
+    "company": "Accenture",
+    "link": "https://www.arbeitnow.com/jobs/companies/accenture/genai-agentic-ai-solutions-architect-all-genders-frankfurt-am-main-154233",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Strong LLM and agentic-AI scope, but Frankfurt is outside the commute tiers and this is a consulting architecture role",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "predium-technology-gmbh-lead-ai-product-manager-f-m-d",
+    "title": "Lead AI Product Manager (f/m/d)",
+    "company": "Predium Technology GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/predium-technology-gmbh/lead-ai-product-manager-munich-404573",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI product leadership is adjacent to the target, but Munich is outside the commute tiers and the role is product management rather than IC/EM engineering",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "karat-interview-engineer-portugal",
+    "title": "Interview Engineer (Portugal)",
+    "company": "Karat",
+    "link": "https://himalayas.app/companies/karat/jobs/interview-engineer-portugal",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Technical-interview work is adjacent but not an AI product-engineering role; Portugal is outside the commute tiers",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "karat-interview-engineer-fixed-term-contract-40-hours-week-united-states",
+    "title": "Interview Engineer, fixed-term contract - 40-hours/week (United States)",
+    "company": "Karat",
+    "link": "https://himalayas.app/companies/karat/jobs/interview-engineer-fixed-term-contract-40-hours-week-united-states",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Technical-interview contract is not an AI product-engineering role and the US location is incompatible",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "the-health-management-academy-product-engineer",
+    "title": "Product Engineer",
+    "company": "The Health Management Academy",
+    "link": "https://himalayas.app/companies/the-health-management-academy/jobs/product-engineer",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Senior product-engineering listing has an AI/ML tag, but the advertised US location and unclear remote hours are incompatible",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "pratt-industries-data-science-engineer-shreveport-la",
+    "title": "Data Science Engineer (Shreveport, LA)",
+    "company": "Pratt Industries",
+    "link": "https://jobicy.com/jobs/146687-data-science-engineer-shreveport-la",
+    "source": "jobicy",
+    "score": 1,
+    "rationale": "Data-science work is adjacent, but this Louisiana role is not GenAI-focused and is outside the commute tiers",
+    "date": "2026-07-16",
+    "tier": "outside"
+  },
+  {
+    "id": "yipitdata-product-manager-ai",
+    "title": "Product Manager AI",
+    "company": "YipitData",
+    "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+    "source": "remoteok",
+    "score": 1,
+    "rationale": "AI product role is not the target IC/EM engineering track and is US-remote, with Israel-incompatible hours unconfirmed",
+    "date": "2026-07-16",
+    "tier": "remote-hours-unconfirmed"
+  },
+  {
+    "id": "doppelernte-gmbh-softwareentwickler-in-senior",
+    "title": "Softwareentwickler:in Senior",
+    "company": "DoppelErnte GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/doppelernte-gmbh/softwareentwicklerin-senior-munich-449458",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "Senior engineering seniority fits, but the Munich office role has no stated GenAI/LLM scope and is outside the commute tiers",
+    "date": "2026-07-16",
+    "tier": "outside"
   }
 ]
