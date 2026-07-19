@@ -229,5 +229,159 @@
     "rationale": "Senior engineering seniority fits, but the Munich office role has no stated GenAI/LLM scope and is outside the commute tiers",
     "date": "2026-07-16",
     "tier": "outside"
+  },
+  {
+    "title": "Principal Knowledge & Data Architect",
+    "company": "Howard Hughes Medical Institute (HHMI)",
+    "link": "https://aijobs.net/job/principal-knowledge-data-architect-headquarters-chevy-chase-md-219682/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Excellent RAG, embeddings, knowledge-graph and architecture overlap, but the listing is headquarters-based in Chevy Chase, Maryland.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "howard-hughes-medical-institute-hhmi-principal-knowledge-data-architect"
+  },
+  {
+    "title": "Competitive Coder",
+    "company": "micro1",
+    "link": "https://aijobs.net/job/competitive-coder-remote-200475/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Remote contractor role, but entry-level competitive-programming work in C/C++ is outside the AI product-engineering target.",
+    "date": "2026-07-19",
+    "tier": "c",
+    "id": "micro1-competitive-coder"
+  },
+  {
+    "title": "Associate Director, Data Labs",
+    "company": "Pew Research Center",
+    "link": "https://aijobs.net/job/associate-director-data-labs-washington-district-of-columbia-20004-united-states-200140/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "LLM governance and data-science leadership overlap, but it is a Washington, DC research role with a material research-domain gap.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "pew-research-center-associate-director-data-labs"
+  },
+  {
+    "title": "AI Product Engineer",
+    "company": "I...",
+    "link": "https://aijobs.net/job/ai-product-engineer-karnataka-bengaluru-india-235825/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Strong agents, RAG, evaluation and production AI scope, but the Bengaluru location is outside the commute tiers; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "i-ai-product-engineer"
+  },
+  {
+    "title": "Senior Data Engineer – Data Quality & Observability",
+    "company": "S...",
+    "link": "https://aijobs.net/job/senior-data-engineer-data-quality-observability-remote-1789-remote-235732/",
+    "source": "aijobs",
+    "score": 4,
+    "rationale": "Remote senior engineering and CI/CD/data-quality ownership fit, but the scope is data observability rather than GenAI; employer and time-zone policy are unconfirmed.",
+    "date": "2026-07-19",
+    "tier": "c",
+    "id": "s-senior-data-engineer-data-quality-observability"
+  },
+  {
+    "title": "Senior Data Management Professional - Workflow Optimization - Private Credit",
+    "company": "B...",
+    "link": "https://aijobs.net/job/senior-data-management-professional-workflow-optimization-private-credit-new-york-235826/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior data-platform work is adjacent, but the New York private-credit role is outside the commute tiers and not an AI-focused engineering role.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "b-senior-data-management-professional-workflow-optimization-private-credit"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "D...",
+    "link": "https://aijobs.net/job/senior-data-engineer-cincinnati-ohio-united-states-235733/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior Python/data-engineering adjacency, but the Cincinnati role is outside the commute tiers and has no GenAI scope; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "d-senior-data-engineer"
+  },
+  {
+    "title": "Technical Lead",
+    "company": "D...",
+    "link": "https://aijobs.net/job/technical-lead-lake-mary-florida-united-states-235905/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Leadership and data-pipeline work are adjacent, but the Florida analytics role is outside the commute tiers and not AI-focused; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "d-technical-lead"
+  },
+  {
+    "title": "Applied AI Engineer II",
+    "company": "D...",
+    "link": "https://aijobs.net/job/applied-ai-engineer-ii-atlanta-georgia-united-states-dallas-texas-united-states-fort-worth-texas-united-states-her-235678/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Direct agents, RAG, evaluation and production-LLM overlap, but it is a mid-level role limited to US locations; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "d-applied-ai-engineer-ii"
+  },
+  {
+    "title": "Applied AI Engineer I",
+    "company": "D...",
+    "link": "https://aijobs.net/job/applied-ai-engineer-i-chicago-illinois-united-states-dallas-texas-united-states-fort-worth-texas-united-states-he-235679/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Direct GenAI platform scope, but it is entry-level and limited to US locations; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "d-applied-ai-engineer-i"
+  },
+  {
+    "title": "Senior Architect - AI Enablement",
+    "company": "E...",
+    "link": "https://aijobs.net/job/senior-architect-ai-enablement-austin-235827/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "GenAI platform and guardrail architecture overlap, but the Austin role is outside the commute tiers; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "e-senior-architect-ai-enablement"
+  },
+  {
+    "title": "AI Architect",
+    "company": "V...",
+    "link": "https://aijobs.net/job/ai-architect-us-ny-new-york-235672/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior AI architecture is adjacent, but the New York contact-center role is outside the commute tiers and has limited stated GenAI depth; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "v-ai-architect"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "V...",
+    "link": "https://aijobs.net/job/ai-engineer-in-hr-gurgaon-235680/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Strong LLM, RAG, agents, MLOps and observability overlap, but the Gurgaon location is outside the commute tiers; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "v-ai-engineer"
+  },
+  {
+    "title": "AI Developer",
+    "company": "V...",
+    "link": "https://aijobs.net/job/ai-developer-in-ka-bangalore-235673/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Direct GenAI, RAG, agent and MCP systems overlap, but the Bengaluru location is outside the commute tiers; employer is redacted by the board.",
+    "date": "2026-07-19",
+    "tier": "outside",
+    "id": "v-ai-developer"
   }
 ]
