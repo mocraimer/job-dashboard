@@ -383,5 +383,104 @@
     "date": "2026-07-19",
     "tier": "outside",
     "id": "v-ai-developer"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Portless",
+    "link": "https://news.ycombinator.com/item?id=48915735",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Exceptional production-agent, MCP, RAG, evaluation and Python/TypeScript overlap; listing restricts remote work to North America.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "portless-ai-engineer"
+  },
+  {
+    "title": "Senior Backend/Platform Engineer",
+    "company": "TypeSafe AI",
+    "link": "https://news.ycombinator.com/item?id=48915237",
+    "source": "hn",
+    "score": 2,
+    "rationale": "AI-model reliability company and senior platform scope are relevant, but every role is San Francisco in-office.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "typesafe-ai-senior-backend-platform-engineer"
+  },
+  {
+    "title": "Senior AI Engineer",
+    "company": "Riskified",
+    "link": "https://grnh.se/esm61t8b2us",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Direct senior AI-engineering opening with Python, Kubernetes, AWS and fintech data overlap; Lisbon hybrid location is outside the commute tiers.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "riskified-senior-ai-engineer"
+  },
+  {
+    "title": "Sr./Staff Machine Learning Engineer",
+    "company": "Oscilar",
+    "link": "https://news.ycombinator.com/item?id=48835373",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Senior ML role at an AI risk-decisioning platform is adjacent to the target; listed remote countries exclude Israel and LLM/agent scope is not stated.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "oscilar-sr-staff-machine-learning-engineer"
+  },
+  {
+    "title": "Lead AI Engineer, Agentic Systems",
+    "company": "Catalyst Wayfare AI",
+    "link": "https://news.ycombinator.com/item?id=48833943",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Strong production-agent, evals, Python, MCP-style integration and enterprise AI overlap; remote role requires US availability and monthly US travel.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "catalyst-wayfare-ai-lead-ai-engineer-agentic-systems"
+  },
+  {
+    "title": "Senior AI Research Engineer",
+    "company": "Adyen",
+    "link": "https://grnh.se/ep78yfmu1us",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Senior AI research and end-to-end ownership align technically, but Madrid requires 60% onsite work and is outside the commute tiers.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "adyen-senior-ai-research-engineer"
+  },
+  {
+    "title": "Founding Full Stack / Applied AI Engineer",
+    "company": "Cora AI",
+    "link": "https://news.ycombinator.com/item?id=48811937",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Direct overlap with voice agents, multi-agent systems, RAG, evals and AI-native development; explicitly US-only with LA/SF preference.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "cora-ai-founding-full-stack-applied-ai-engineer"
+  },
+  {
+    "title": "Member of Technical Staff, Machine Learning",
+    "company": "Bjak",
+    "link": "https://himalayas.app/companies/bjak/jobs/member-of-technical-staff-machine-learning",
+    "source": "himalayas",
+    "score": 3,
+    "rationale": "Staff-level ML position is senior and AI-focused, but the listed Sweden location is outside the commute tiers and remote eligibility is not confirmed.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "bjak-member-of-technical-staff-machine-learning"
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "Bjak",
+    "link": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-1082851431",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Applied-AI scope is relevant, but this is explicitly entry-level and listed in Portugal, outside the target seniority and commute tiers.",
+    "date": "2026-07-20",
+    "tier": "outside",
+    "id": "bjak-applied-ai-engineer"
   }
 ]
