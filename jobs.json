@@ -592,5 +592,137 @@
     "date": "2026-07-22",
     "tier": "outside",
     "id": "etalytics-gmbh-senior-software-developer-m-f-d-java-kotlin-with-spring-boot"
+  },
+  {
+    "title": "Senior Principal Engineer - Data Science",
+    "company": "Marsh McLennan",
+    "link": "https://aijobs.net/job/ijp-senior-principal-engineer-data-science-mumbai-hiranandani-india-239749/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior data-science scope is adjacent, but this internal-posting role is Mumbai-based and its AI-product scope is not established.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "marsh-mclennan-senior-principal-engineer-data-science"
+  },
+  {
+    "title": "Senior AI Engineer",
+    "company": "Blend360",
+    "link": "https://aijobs.net/job/senior-ai-engineer-montevideo-uruguay-uruguay-239767/",
+    "source": "aijobs",
+    "score": 3,
+    "rationale": "Strong agents, RAG, prompt-engineering and human-in-the-loop evaluation overlap, but the listed Montevideo location is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "blend360-senior-ai-engineer"
+  },
+  {
+    "title": "Omni模型算法工程师/研究员",
+    "company": "XPeng",
+    "link": "https://aijobs.net/job/omni-239556/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "AI-model research scope is directionally relevant, but the Beijing/Shenzhen role is outside the commute tiers and emphasizes model research rather than GenAI product engineering.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "xpeng-omni-model-algorithm-engineer-researcher"
+  },
+  {
+    "title": "AI Ops Engineer",
+    "company": "Endava",
+    "link": "https://aijobs.net/job/ai-ops-engineer-colorado-united-states-239863/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Cloud AI services, agents and infrastructure overlap technically, but it is entry-level and Colorado-based.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "endava-ai-ops-engineer"
+  },
+  {
+    "title": "Ai 院--多模态团队--多模态理解算法研究员-强化学习方向",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/ai-239558/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior multimodal/RL research is AI-focused, but the Beijing role is outside the commute tiers and is research rather than the target GenAI product-engineering track.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-multimodal-rl-researcher"
+  },
+  {
+    "title": "AI院-GLM团队-AI-Native 全栈工程师（偏后端）",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/ai-glm-ai-native-239559/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "LLM code-generation services, backend APIs and cloud-native systems overlap, but the mid-level Beijing role is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-ai-native-full-stack-backend-engineer"
+  },
+  {
+    "title": "大模型开发工程师（交付方向）",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/--239560/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "RAG, agents, evaluation and LLM delivery overlap directly, but the mid-level Hangzhou role is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-llm-development-engineer-delivery"
+  },
+  {
+    "title": "AI院--训练Infra工程师",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/ai-infra-239561/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "AI training infrastructure is adjacent, but the role is entry-level and Beijing-based.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-training-infra-engineer"
+  },
+  {
+    "title": "机器学习平台研发工程师",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/--239562/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Kubernetes, distributed training/inference and ML-platform scope fit the infrastructure background, but the Beijing role is mid-level and outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-machine-learning-platform-engineer"
+  },
+  {
+    "title": "MaaS-SRE/DBA",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/maas-sredba-239563/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior reliability work for model-serving infrastructure is adjacent, but it is a Beijing SRE/DBA role rather than AI-product engineering.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-maas-sre-dba"
+  },
+  {
+    "title": "Ai院-开源模型适配 & 技术布道",
+    "company": "Z.ai",
+    "link": "https://aijobs.net/job/ai-239564/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Model inference and open-source framework work is AI-adjacent, but the mid-level Beijing role is outside the commute tiers and not product-engineering focused.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "z-ai-open-source-model-adaptation-engineer"
+  },
+  {
+    "title": "Staff Software Engineer, Payroll Canada",
+    "company": "Gusto",
+    "link": "https://job-boards.greenhouse.io/gusto/jobs/7985861",
+    "source": "techaviv",
+    "score": 1,
+    "rationale": "Staff engineering seniority is relevant, but the San Francisco payroll role has no stated AI-product scope and is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "gusto-staff-software-engineer-payroll-canada"
   }
 ]
