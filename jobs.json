@@ -482,5 +482,115 @@
     "date": "2026-07-20",
     "tier": "outside",
     "id": "bjak-applied-ai-engineer"
+  },
+  {
+    "title": "Senior (and above) Backend Engineer",
+    "company": "Instrumentl",
+    "link": "https://news.ycombinator.com/item?id=48910969",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Senior Python backend role builds AI features through production evaluation with LangChain, Qdrant and Kubernetes, but remote work is restricted to the US and Canada.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "instrumentl-senior-and-above-backend-engineer"
+  },
+  {
+    "title": "Simulation/RL Integration Engineer",
+    "company": "Lumen Labs",
+    "link": "https://news.ycombinator.com/item?id=48897221",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Python simulation and evaluation-harness work is AI-adjacent, but it requires US/Canada remote work before a San Francisco onsite move and is specialized robotics/RL rather than GenAI.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "lumen-labs-simulation-rl-integration-engineer"
+  },
+  {
+    "title": "Founding Applied AI Engineer",
+    "company": "Matterhaul",
+    "link": "https://news.ycombinator.com/item?id=48848862",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Applied-AI founding role at an AI-native ERP has relevant product scope, but the San Francisco role requires four onsite days per week.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "matterhaul-founding-applied-ai-engineer"
+  },
+  {
+    "title": "Founding Forward Deployed Engineer",
+    "company": "Clera",
+    "link": "https://himalayas.app/companies/clera/jobs/founding-forward-deployed-engineer",
+    "source": "himalayas",
+    "score": 3,
+    "rationale": "Founding engineer role building AI agents for industrial logistics is technically relevant, but the listing is United States-only.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "clera-founding-forward-deployed-engineer"
+  },
+  {
+    "title": "AI Tools & Automation Intern (Developer)",
+    "company": "Hudson Manpower",
+    "link": "https://himalayas.app/companies/hudson-manpower/jobs/ai-tools-automation-intern-developer",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "LLM, MCP and API scope overlaps technically, but it is explicitly an internship and location/work authorization are unstated.",
+    "date": "2026-07-22",
+    "tier": "unknown",
+    "id": "hudson-manpower-ai-tools-automation-intern-developer"
+  },
+  {
+    "title": "(Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)",
+    "company": "WEBUILDAI GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-ai-engineer-technical-project-lead-koln-cologne-69952",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Senior production-AI engineering and technical-lead scope fit, but the listed Cologne location is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "webuildai-gmbh-senior-ai-engineer-technical-project-lead-koln-w-d-m"
+  },
+  {
+    "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+    "company": "think about IT GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-145005",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior AI/Copilot engineering is directionally relevant, but the Nuremberg client-IT role is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "think-about-it-gmbh-senior-microsoft-ai-copilot-engineer-m-w-d"
+  },
+  {
+    "title": "Forward Deployed Engineer - Integrations & Customer Success (f/m/d)",
+    "company": "VOIDS Technology GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/forward-deployed-engineer-integrations-customer-success-hamburg-98920",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI inventory-product integrations are adjacent, but the role emphasizes customer success and the Hamburg location is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "voids-technology-gmbh-forward-deployed-engineer-integrations-customer-success-f-m-d"
+  },
+  {
+    "title": "Tech & AI Specialist (Marketing Agency)",
+    "company": "agencro",
+    "link": "https://www.arbeitnow.com/jobs/companies/agencro/tech-ai-specialist-marketing-agency-landau-136662",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "AI-first technical work is adjacent, but this is a marketing-agency generalist role with no stated Israel-remote eligibility or target seniority.",
+    "date": "2026-07-22",
+    "tier": "remote-eligibility-unconfirmed",
+    "id": "agencro-tech-ai-specialist-marketing-agency"
+  },
+  {
+    "title": "Senior Software Developer (m/f/d) Java/Kotlin with Spring Boot",
+    "company": "etalytics gmbh",
+    "link": "https://www.arbeitnow.com/jobs/companies/etalytics-gmbh/senior-software-developer-java-kotlin-with-spring-boot-darmstadt-436777",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "Senior Java/Kotlin technical ownership on an AI/data product is adjacent, but it is not a GenAI role and Darmstadt is outside the commute tiers.",
+    "date": "2026-07-22",
+    "tier": "outside",
+    "id": "etalytics-gmbh-senior-software-developer-m-f-d-java-kotlin-with-spring-boot"
   }
 ]
