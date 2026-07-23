@@ -724,5 +724,27 @@
     "date": "2026-07-22",
     "tier": "outside",
     "id": "gusto-staff-software-engineer-payroll-canada"
+  },
+  {
+    "id": "muxon-solutions-architect-enterprise-architecture-it-industrial-automation-transformation",
+    "title": "Solutions Architect - Enterprise Architecture IT, Industrial Automation & Transformation",
+    "company": "Muxon",
+    "link": "https://www.arbeitnow.com/jobs/companies/muxon/solutions-architect-enterprise-architecture-it-industrial-automation-transformation-munich-328815",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Physical-AI automation and enterprise-architecture scope are relevant, but C1 German and Germany-only hybrid work (50% remote) make it location-incompatible.",
+    "date": "2026-07-23",
+    "tier": "outside"
+  },
+  {
+    "id": "flix-senior-data-platform-engineer-m-f-d",
+    "title": "Senior Data Platform Engineer (m/f/d)",
+    "company": "Flix",
+    "link": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-platform-engineer-berlin-142531",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Strong AWS, Kubernetes, Kafka, Terraform and Snowflake platform fit with AI/ML workload exposure, but Berlin office-first work is outside the commute tiers and GenAI is ancillary.",
+    "date": "2026-07-23",
+    "tier": "outside"
   }
 ]
