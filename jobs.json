@@ -746,5 +746,49 @@
     "rationale": "Strong AWS, Kubernetes, Kafka, Terraform and Snowflake platform fit with AI/ML workload exposure, but Berlin office-first work is outside the commute tiers and GenAI is ancillary.",
     "date": "2026-07-23",
     "tier": "outside"
+  },
+  {
+    "title": "Machine Learning Engineer (m/w/d)",
+    "company": "Rockstardevelopers GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-stuttgart-382224",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Strong production LLM, RAG, agent-systems and enterprise-delivery overlap; the Stuttgart-based remote listing does not establish Israel work eligibility or seniority.",
+    "date": "2026-07-24",
+    "tier": "remote-eligibility-unconfirmed",
+    "id": "rockstardevelopers-gmbh-machine-learning-engineer-m-w-d"
+  },
+  {
+    "title": "AI & Data Engineer (m/w/d)",
+    "company": "PeakSoft GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/peaksoft-gmbh/ai-data-engineer-wuppertal-419595",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Direct LLM, ML and data-platform scope, but the Wuppertal remote listing does not establish Israel work eligibility and the advertised level is not senior-specific.",
+    "date": "2026-07-24",
+    "tier": "remote-eligibility-unconfirmed",
+    "id": "peaksoft-gmbh-ai-data-engineer-m-w-d"
+  },
+  {
+    "title": "Machine Learning Ops Engineer - Personalization (m|w|d)",
+    "company": "idealo internet GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/machine-learning-ops-engineer-personalization-mwd-berlin-492895",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Relevant cloud-native MLOps/platform work, but the Berlin location is outside the commute tiers and the scope is personalization rather than GenAI or agentic systems.",
+    "date": "2026-07-24",
+    "tier": "outside",
+    "id": "idealo-internet-gmbh-machine-learning-ops-engineer-personalization-m-w-d"
+  },
+  {
+    "title": "Senior Director, Engineering | Retail Analytics / CPG / Market Intelligence",
+    "company": "NielsenIQ",
+    "link": "https://himalayas.app/companies/nielseniq/jobs/senior-director-engineering-retail-analytics-cpg-market-intelligence-3567640917",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Engineering-management track with stated AI-first SaaS transformation, but the role is Canada-based and the supplied description does not establish hands-on GenAI scope.",
+    "date": "2026-07-24",
+    "tier": "outside",
+    "id": "nielseniq-senior-director-engineering-retail-analytics-cpg-market-intelligence"
   }
 ]
