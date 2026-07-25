@@ -790,5 +790,49 @@
     "date": "2026-07-24",
     "tier": "outside",
     "id": "nielseniq-senior-director-engineering-retail-analytics-cpg-market-intelligence"
+  },
+  {
+    "title": "Statistics Expert (PhD)",
+    "company": "micro1",
+    "link": "https://aijobs.net/job/statistics-expert-phd-remote-238344/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Remote and technically adjacent, but this is a PhD-required statistics annotation contract rather than a senior AI product-engineering role.",
+    "date": "2026-07-25",
+    "tier": "c",
+    "id": "micro1-statistics-expert-phd"
+  },
+  {
+    "title": "Computer Science Expert (PhD)",
+    "company": "micro1",
+    "link": "https://aijobs.net/job/computer-science-expert-phd-remote-238345/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Remote Python-adjacent contract, but it requires a PhD and centers on training-data annotation, not senior AI product engineering.",
+    "date": "2026-07-25",
+    "tier": "c",
+    "id": "micro1-computer-science-expert-phd"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "C...",
+    "link": "https://aijobs.net/job/data-scientist-ind-hyderabad-india-246305/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior AI/ML and GenAI-adjacent data-science scope, but the stated Hyderabad, India location and master’s/PhD requirement are material mismatches; employer is redacted by the board.",
+    "date": "2026-07-25",
+    "tier": "outside",
+    "id": "c-data-scientist"
+  },
+  {
+    "title": "Senior AI Platform Engineer",
+    "company": "K...",
+    "link": "https://aijobs.net/job/senior-ai-platform-engineer-chennai-india-246306/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior platform role overlaps with AWS, Kubernetes, TypeScript/Python and AI-enabled developer tooling, but Chennai is outside the commute tiers and the scope is DevSecOps/SDLC rather than GenAI product systems; employer is redacted by the board.",
+    "date": "2026-07-25",
+    "tier": "outside",
+    "id": "k-senior-ai-platform-engineer"
   }
 ]
