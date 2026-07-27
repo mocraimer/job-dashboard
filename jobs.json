@@ -834,5 +834,170 @@
     "date": "2026-07-25",
     "tier": "outside",
     "id": "k-senior-ai-platform-engineer"
+  },
+  {
+    "title": "Forward Deployed Engineer (Remote, New York)",
+    "company": "LiveKit",
+    "link": "https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Excellent voice-agent platform overlap, but the verified remote location is New York, United States.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "livekit-forward-deployed-engineer-remote-new-york"
+  },
+  {
+    "title": "Forward Deployed Engineer (Remote, India)",
+    "company": "LiveKit",
+    "link": "https://jobs.ashbyhq.com/livekit/2702511f-38b1-41b3-906d-6d1976c8789a",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Excellent voice-agent platform overlap, but the verified remote location is India.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "livekit-forward-deployed-engineer-remote-india"
+  },
+  {
+    "title": "Staff Backend Engineer / Tech Lead Manager",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/staff-backend-engineer-tech-lead-manager-291128",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Staff/lead backend scope at an AI-cloud platform fits the senior engineering background, but the posting is Germany-based and its role-specific AI scope needs confirmation.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-staff-backend-engineer-tech-lead-manager"
+  },
+  {
+    "title": "Solutions Architect DACH",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/solutions-architect-dach-51696",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "AI-cloud architecture is adjacent to prior platform leadership, but this DACH solutions role is Germany-based and customer-facing rather than the target IC/EM track.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-solutions-architect-dach"
+  },
+  {
+    "title": "Senior Software Engineer (YDB Team)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-ydb-team-48438",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior backend/distributed-systems work at an AI cloud is adjacent, but the posting requires Germany eligibility and the YDB scope is not GenAI-focused.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-software-engineer-ydb-team"
+  },
+  {
+    "title": "Senior Software Engineer (Token Factory)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-token-factory-489348",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Inference-platform engineering is relevant to production AI infrastructure, but the role requires Germany eligibility and likely has a GPU-performance depth gap.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-software-engineer-token-factory"
+  },
+  {
+    "title": "Senior Software Engineer (Storage Virtualization Team)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-storage-virtualization-team-281845",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior cloud-platform scope is adjacent, but it requires Germany eligibility and focuses on storage virtualization rather than GenAI systems.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-software-engineer-storage-virtualization-team"
+  },
+  {
+    "title": "Senior Software Engineer (Data Platform, C++)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-data-platform-c-czech-republic-united-kingdom-57791",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI-cloud data-platform work is adjacent, but the stated Czech Republic/UK locations are outside the commute tiers and C++ data-platform work is not the target GenAI scope.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-software-engineer-data-platform-c"
+  },
+  {
+    "title": "Senior Software Engineer (C++)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-c-339587",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior AI-cloud systems work is adjacent, but the posting requires Germany eligibility and lacks stated LLM/agent scope.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-software-engineer-c"
+  },
+  {
+    "title": "Senior Site Reliability Engineer — Token Factory (Inference Platform)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-site-reliability-engineer-token-factory-inference-platform-125814",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Inference-platform reliability is relevant to production AI infrastructure, but the role requires Germany eligibility and is SRE rather than AI engineering.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-site-reliability-engineer-token-factory-inference-platform"
+  },
+  {
+    "title": "Senior ML Engineer (Token Factory)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-30647",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Direct LLM inference, fine-tuning and Python engineering overlap, but the posting requires Germany eligibility and emphasizes GPU/CUDA-level optimization not shown in the profile.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-ml-engineer-token-factory"
+  },
+  {
+    "title": "Senior Backend Engineer",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-44929",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior backend experience aligns broadly with an AI-cloud employer, but the Germany-based location and role-specific GenAI scope are unconfirmed.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-backend-engineer"
+  },
+  {
+    "title": "Senior Backend Developer (Token Factory)",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-backend-developer-token-factory-349593",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Backend work on an LLM inference platform is relevant, but the posting requires Germany eligibility and likely favors specialized high-performance inference experience.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-senior-backend-developer-token-factory"
+  },
+  {
+    "title": "Principal Solutions Architect",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/principal-solutions-architect-221626",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI-cloud architecture and prior initiative leadership are adjacent, but this Germany-based solutions role is customer-facing rather than the target IC/EM track.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-principal-solutions-architect"
+  },
+  {
+    "title": "Key Customers Solutions Architect EMEA",
+    "company": "Nebius",
+    "link": "https://www.arbeitnow.com/jobs/companies/nebius/key-customers-solutions-architect-emea-435632",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "Enterprise AI-cloud architecture is adjacent, but the role is Germany-based and customer-facing rather than a target AI engineering or engineering-management role.",
+    "date": "2026-07-27",
+    "tier": "outside",
+    "id": "nebius-key-customers-solutions-architect-emea"
   }
 ]
