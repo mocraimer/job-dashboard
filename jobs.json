@@ -999,5 +999,93 @@
     "date": "2026-07-27",
     "tier": "outside",
     "id": "nebius-key-customers-solutions-architect-emea"
+  },
+  {
+    "id": "oscilar-engineering-manager",
+    "title": "Engineering Manager",
+    "company": "Oscilar",
+    "link": "https://jobs.ashbyhq.com/oscilar",
+    "source": "hn",
+    "score": 3,
+    "rationale": "AI risk-decisioning platform and engineering-management track fit, but the opening is limited to Poland among the listed remote countries; Israel is not eligible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "centurylink-senior-lead-applied-ai-scientist-remote-us",
+    "title": "Senior Lead Applied AI Scientist (Remote, US)",
+    "company": "CenturyLink",
+    "link": "https://himalayas.app/companies/centurylink/jobs/senior-lead-applied-ai-scientist-remote-us",
+    "source": "himalayas",
+    "score": 2,
+    "rationale": "Senior applied-AI scope is relevant, but the role is explicitly remote within the United States and is scientist/research oriented rather than the target GenAI engineering track.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "limehome-working-student-ai-enablement-d-f-m",
+    "title": "Working Student AI Enablement (d/f/m)",
+    "company": "limehome",
+    "link": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-ai-enablement-munchen-74429",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "Internal AI-tooling scope is adjacent, but it requires current student enrollment and is far below the target seniority; remote-work eligibility for Israel is unconfirmed.",
+    "date": "2026-07-28",
+    "tier": "eligibility-unconfirmed"
+  },
+  {
+    "id": "medipulse-data-ai-engineer-m-w-d",
+    "title": "Data & AI Engineer (m/w/d)",
+    "company": "MediPulse",
+    "link": "https://www.arbeitnow.com/jobs/companies/medipulse/data-ai-engineer-munich-125354",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Applied AI and data-pipeline work are relevant, but the Munich role is outside the commute tiers and seniority/GenAI depth are not established.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "idealo-internet-gmbh-senior-ai-engineer-conversational-ai-systems-m-w-d",
+    "title": "(Senior) AI Engineer - Conversational AI Systems (m/w/d)",
+    "company": "idealo internet GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ai-engineer-conversational-ai-systems-berlin-392503",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Direct conversational-AI work with RAG, agent orchestration and evaluation strongly overlaps, but the Berlin location is outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "jobgether-ai-researcher-multilingual-data",
+    "title": "AI Researcher – Multilingual Data",
+    "company": "Jobgether",
+    "link": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-researcher-multilingual-data-germany-13863",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "Multilingual LLM-data research is adjacent, but the actual employer is undisclosed, the role is Germany-based, and it is research rather than production AI engineering.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "jobgether-ai-director-machine-learning",
+    "title": "AI Director - Machine Learning",
+    "company": "Jobgether",
+    "link": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-director-machine-learning-germany-42237",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI leadership is adjacent to the engineering-management target, but the actual employer is undisclosed and the role is Germany-based, outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "makersite-gmbh-senior-data-scientist-m-f-x",
+    "title": "Senior Data Scientist (m/f/x)",
+    "company": "Makersite GmbH",
+    "link": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-366454",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Senior data-science work is adjacent, but the listing limits remote work to the EU (not Israel) and does not state GenAI/LLM scope.",
+    "date": "2026-07-28",
+    "tier": "outside"
   }
 ]
