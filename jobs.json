@@ -1087,5 +1087,192 @@
     "rationale": "Senior data-science work is adjacent, but the listing limits remote work to the EU (not Israel) and does not state GenAI/LLM scope.",
     "date": "2026-07-28",
     "tier": "outside"
+  },
+  {
+    "id": "pwc-in-associate-aws-data-engineer-data-and-analytics-advisory-gurgaon",
+    "title": "IN-Associate_ AWS Data Engineer_Data and Analytics_Advisory_Gurgaon",
+    "company": "PwC",
+    "link": "https://aijobs.net/job/in-associate_-aws-data-engineer_data-and-analytics_advisory_gurgaon-gurugram-8-b-india-249066/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "AWS/data-engineering work is adjacent, but this associate-level Gurugram role is outside the target seniority and commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "ite-lecturer-artificial-intelligence-college-central",
+    "title": "Lecturer - Artificial Intelligence [ITE College Central] - 2 Year Contract",
+    "company": "ITE",
+    "link": "https://aijobs.net/job/lecturer-artificial-intelligence-ite-college-central-2-year-contract-ite-cc-college-central-singapore-249167/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "AI subject matter is relevant, but this fixed-term Singapore teaching role is outside the target engineering track and commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "ite-lecturer-ai-applications-college-west",
+    "title": "Lecturer - AI Applications [ITE College West] - 2 Year Contract",
+    "company": "ITE",
+    "link": "https://aijobs.net/job/lecturer-ai-applications-ite-college-west-2-year-contract-ite-cw-college-west-singapore-249044/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "AI application subject matter is relevant, but this fixed-term Singapore teaching role is outside the target engineering track and commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "ite-deputy-manager-data-analysis-surveys",
+    "title": "Deputy Manager - Data Analysis & Surveys [ITE Headquarters] – 2 Year Contract",
+    "company": "ITE",
+    "link": "https://aijobs.net/job/deputy-manager-data-analysis-surveys-ite-headquarters-2-year-contract-ite-hq-headquarters-singapore-249013/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Data-analysis management is adjacent, but it is a fixed-term Singapore role without an AI product-engineering remit.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "ite-data-analytics-engineer-learning-technologies-devt",
+    "title": "Data & Analytics Engineer - Learning Technologies Devt [ITE Headquarters]",
+    "company": "ITE",
+    "link": "https://aijobs.net/job/data-analytics-engineer-learning-technologies-devt-ite-headquarters-ite-hq-headquarters-singapore-249002/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Data engineering is adjacent, but this Singapore role has no stated GenAI/LLM scope and is outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "g-senior-data-analyst-student-load-planning",
+    "title": "Senior Data Analyst, Student Load Planning",
+    "company": "G… (AIJobs.net)",
+    "link": "https://aijobs.net/job/senior-data-analyst-student-load-planning-nathan-qld-australia-249086/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior data analysis is adjacent, but this Australia-based planning role is outside the commute tiers and not AI product engineering.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "s-associate-consultant-generative-ai",
+    "title": "Associate Consultant, Generative AI",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/associate-consultant-generative-ai-san-francisco-ca-united-states-249136/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Generative-AI scope is relevant, but the role is associate-level consulting in San Francisco, outside the target seniority and commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "s-wvrocks-enrollment-program-manager",
+    "title": "WVROCKS Enrollment Program Manager-WV Network-Monongalia Co.",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/wvrocks-enrollment-program-manager-wv-network-monongalia-co-monongalia-county-249032/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Program-management work is outside the senior AI engineering target and the West Virginia location is incompatible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "s-senior-data-engineer-modern-data-ai-platforms",
+    "title": "Senior Data Engineer - Modern Data & AI Platforms",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/senior-data-engineer-modern-data-ai-platforms-kansas-city-mo-united-states-249096/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior data-platform scope is adjacent, but the Kansas City role has no stated GenAI/agent remit and is outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "linkedin-staff-software-engineer-ai-platform",
+    "title": "Staff Software Engineer - AI Platform",
+    "company": "LinkedIn",
+    "link": "https://aijobs.net/job/staff-software-engineer-ai-platform-mountain-view-ca-united-states-249168/",
+    "source": "aijobs",
+    "score": 3,
+    "rationale": "Staff-level AI-platform and distributed model-serving scope are relevant, but the Mountain View location is incompatible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "linkedin-senior-software-engineer-ai-platform",
+    "title": "Senior Software Engineer - AI Platform",
+    "company": "LinkedIn",
+    "link": "https://aijobs.net/job/senior-software-engineer-ai-platform-mountain-view-ca-united-states-249169/",
+    "source": "aijobs",
+    "score": 3,
+    "rationale": "Senior AI-platform scope is relevant, but the Mountain View location is incompatible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "s-general-professional-iv-med-quest-data-analyst",
+    "title": "General Professional Iv (Med-Quest Data Analyst) - Ewa, Oahu",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/general-professional-iv-med-quest-data-analyst-ewa-oahu-island-of-oahu-249014/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Data-analysis work is outside the AI product-engineering target and the Hawaii location is incompatible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "linkedin-senior-data-scientist",
+    "title": "Senior Data Scientist",
+    "company": "LinkedIn",
+    "link": "https://aijobs.net/job/senior-data-scientist-mountain-view-ca-united-states-249111/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior data-science scope is adjacent, but the Mountain View role has no stated GenAI/agent focus and is outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "linkedin-financial-process-analytics-private-equity",
+    "title": "Financial Process Analytics (Private Equity - Max $56/hr W2)",
+    "company": "LinkedIn",
+    "link": "https://aijobs.net/job/financial-process-analytics-private-equity-max-56hr-w2-plymouth-meeting-pa-united-states-249067/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Financial analytics contract work is outside the AI product-engineering target and the Pennsylvania location is incompatible.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "n-principal-software-engineer",
+    "title": "Principal Software Engineer",
+    "company": "N… (AIJobs.net)",
+    "link": "https://aijobs.net/job/principal-software-engineer-chennai-tn-india-249170/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Principal seniority is relevant, but the Chennai role has no stated GenAI/LLM remit and is outside the commute tiers.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "x-robot-ai-software-engineer",
+    "title": "机器人Ai软件工程师",
+    "company": "X… (AIJobs.net)",
+    "link": "https://aijobs.net/job/ai-248986/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "AI software-engineering scope is relevant, but the Shenzhen location is incompatible and the listing is not assessable for role fit in English.",
+    "date": "2026-07-28",
+    "tier": "outside"
+  },
+  {
+    "id": "gusto-staff-software-engineer-hr-experiences",
+    "title": "Staff Software Engineer, HR Experiences",
+    "company": "Gusto",
+    "link": "https://job-boards.greenhouse.io/gusto/jobs/7993674",
+    "source": "techaviv",
+    "score": 2,
+    "rationale": "Staff IC seniority fits, but the HR product role has no stated AI scope and the source provides no Israel-compatible location or hybrid evidence.",
+    "date": "2026-07-28",
+    "tier": "unknown"
   }
 ]
