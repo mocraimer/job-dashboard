@@ -1274,5 +1274,27 @@
     "rationale": "Staff IC seniority fits, but the HR product role has no stated AI scope and the source provides no Israel-compatible location or hybrid evidence.",
     "date": "2026-07-28",
     "tier": "unknown"
+  },
+  {
+    "title": "System Architect (Rust)",
+    "company": "workato",
+    "link": "https://www.arbeitnow.com/jobs/companies/workato/system-architect-rust-berlin-118086",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Technical-lead-level backend systems design and an agentic/MCP platform context fit, but Berlin is outside the commute tiers and deep Rust, Go, FFI/WASM, and compiler experience are material gaps.",
+    "date": "2026-07-29",
+    "tier": "outside",
+    "id": "workato-system-architect-rust"
+  },
+  {
+    "title": "Backend Software Engineer - AI Finance Agent",
+    "company": "Bjak",
+    "link": "https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent",
+    "source": "himalayas",
+    "score": 2,
+    "rationale": "Backend APIs, workflows, reliability, and regulated insurance/payments systems overlap, but it is a mid-level 3+ years role and remote eligibility requires being based in Poland.",
+    "date": "2026-07-29",
+    "tier": "outside",
+    "id": "bjak-backend-software-engineer-ai-finance-agent"
   }
 ]
