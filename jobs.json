@@ -1560,5 +1560,16 @@
     "rationale": "Senior full-stack ownership is adjacent, but remote work is limited to Canada and the US, with no AI product focus.",
     "date": "2026-07-30",
     "tier": "outside"
+  },
+  {
+    "id": "q-ai-solutions-architect",
+    "title": "AI Solutions Architect",
+    "company": "Q...",
+    "link": "https://aijobs.net/job/ai-solutions-architect-london-england-united-kingdom-255897/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior agentic-AI, RAG, function-calling and LLM-evaluation overlap, but the job is listed in London and describes a remote-first culture rather than an Israel-eligible fully remote arrangement; solutions-architecture/client-delivery scope is also adjacent to the target.",
+    "date": "2026-07-31",
+    "tier": "pending"
   }
-]
+]\n
