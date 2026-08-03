@@ -1780,5 +1780,104 @@
     "rationale": "Platform full-stack work is adjacent, but the US listing is below target seniority and has no stated GenAI scope.",
     "date": "2026-08-01",
     "tier": "outside"
+  },
+  {
+    "id": "bjak-staff-machine-learning-engineer",
+    "title": "Staff Machine Learning Engineer",
+    "company": "Bjak",
+    "link": "https://himalayas.app/companies/bjak/jobs/staff-machine-learning-engineer-389466369",
+    "source": "himalayas",
+    "score": 3,
+    "rationale": "Staff-level ML title is directly relevant, but the listing location is the United States; Israel eligibility is not indicated.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "pinnacle-group-ai-technical-analyst",
+    "title": "AI Technical Analyst",
+    "company": "Pinnacle Group",
+    "link": "https://himalayas.app/companies/pinnacle-group/jobs/ai-technical-analyst-3461646489",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "AI-adjacent analyst role, but it is mid-level and based in India rather than an AI engineering or leadership target.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "bjak-senior-engineer-internal-tools",
+    "title": "Senior Engineer, Internal tools",
+    "company": "Bjak",
+    "link": "https://himalayas.app/companies/bjak/jobs/senior-engineer-internal-tools-3203885759",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Senior engineering title is adjacent, but the South Korea location is outside the commute tiers and no GenAI scope is stated.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "sysdig-software-engineer-middle-and-senior-level",
+    "title": "Software Engineer (Middle and Senior level)",
+    "company": "Sysdig",
+    "link": "https://himalayas.app/companies/sysdig/jobs/software-engineer-middle-and-senior-level",
+    "source": "himalayas",
+    "score": 1,
+    "rationale": "Senior software-engineering track is adjacent, but the Serbia location is outside the commute tiers and the listing does not state AI/LLM scope.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "superplane-product-engineer",
+    "title": "Product Engineer",
+    "company": "SuperPlane",
+    "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
+    "source": "remoteok",
+    "score": 7,
+    "rationale": "Strong AI-agent developer-platform, backend, TypeScript/React and ownership overlap; confirm that its GMT+2 to GMT-3 hiring band and Europe eligibility include Israel (UTC+3 in summer).",
+    "date": "2026-08-03",
+    "tier": "pending"
+  },
+  {
+    "id": "magic-compass-limited-genai-engineer-ai-builder-ai-agent-associate-specialist",
+    "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+    "company": "Magic Compass Limited",
+    "link": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+    "source": "remoteok",
+    "score": 4,
+    "rationale": "Direct LLM agents, RAG, MCP, tool-calling, monitoring and workflow scope in a worldwide remote role, but it explicitly seeks only 1–3 years of experience and offers associate-level compensation.",
+    "date": "2026-08-03",
+    "tier": "c"
+  },
+  {
+    "id": "enchargeai36-research-engineer-ai-models",
+    "title": "Research Engineer, AI Models",
+    "company": "Enchargeai36",
+    "link": "https://www.arbeitnow.com/jobs/companies/enchargeai36/research-engineer-ai-models-351912",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Relevant LLM evaluation, fine-tuning and inference-optimization work, but it is Germany-based and requires deep hardware-aware ML research/PyTorch experience.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "upvest-director-head-of-data-ai-f-m-d",
+    "title": "Director/Head of Data & AI (f/m/d)",
+    "company": "Upvest",
+    "link": "https://www.arbeitnow.com/jobs/companies/upvest/director-head-of-data-ai-berlin-343643",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "AI/data leadership title is directionally relevant, but the Berlin location is outside the commute tiers and the role is beyond the stated target scope.",
+    "date": "2026-08-03",
+    "tier": "outside"
+  },
+  {
+    "id": "upvest-ai-inhouse-consultant-f-m-d",
+    "title": "AI Inhouse Consultant (f/m/d)",
+    "company": "Upvest",
+    "link": "https://www.arbeitnow.com/jobs/companies/upvest/ai-inhouse-consultant-berlin-131668",
+    "source": "arbeitnow",
+    "score": 1,
+    "rationale": "AI scope is adjacent, but this Berlin-based internal-consulting role is outside the commute tiers and not a target engineering or management role.",
+    "date": "2026-08-03",
+    "tier": "outside"
   }
 ]
