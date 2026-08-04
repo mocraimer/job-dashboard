@@ -2044,5 +2044,82 @@
     "rationale": "Agentic-enterprise deployment is relevant, but the job is based at DACH customers in Munich.",
     "date": "2026-08-04",
     "tier": "outside"
+  },
+  {
+    "id": "b-aijobs-senior-data-engineer-guadalajara",
+    "title": "Senior Data Engineer",
+    "company": "B… (AIJobs.net)",
+    "link": "https://aijobs.net/job/senior-data-engineer-guadalajara-jal-mexico-261375/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior data-engineering scope is adjacent, but this Guadalajara role is outside the commute tiers and its Databricks/Snowflake analytics-pipeline remit is not GenAI-focused.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "l-aijobs-lead-data-engineer-singapore",
+    "title": "Lead Data Engineer",
+    "company": "L… (AIJobs.net)",
+    "link": "https://aijobs.net/job/lead-data-engineer-singapore-singapore-261007/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Hands-on lead data-platform work with Python, AWS, Kafka and an LLM-agent support component is adjacent, but the Singapore role is outside the commute tiers and is not a target GenAI/engineering-management role.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "k-aijobs-aigc-image-data-engineer",
+    "title": "AIGC Image Data Engineer",
+    "company": "K… (AIJobs.net)",
+    "link": "https://aijobs.net/job/aigc-beijing-261008/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Multimodal data, vector-search and data-quality work are AI-adjacent, but this Beijing listing is mid-level annotation/data engineering rather than a senior GenAI product-engineering role.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "s-aijobs-senior-data-engineer-azure-databricks",
+    "title": "Senior Data Engineer (Azure & Databricks)",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/senior-data-engineer-azure-databricks-new-york-ny-united-states-261376/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Senior data-platform work is adjacent, but this New York role requires four office days weekly and has no direct GenAI/agent remit.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "s-aijobs-applied-ai-engineer-new-york",
+    "title": "Applied AI Engineer",
+    "company": "S… (AIJobs.net)",
+    "link": "https://aijobs.net/job/applied-ai-engineer-new-york-ny-united-states-261336/",
+    "source": "aijobs",
+    "score": 3,
+    "rationale": "NLP, chatbot, LangChain and production model-evaluation work overlap technically, but the role is mid-level and located in New York, outside the commute tiers.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "ku-aijobs-deep-learning-algorithm-engineer-expert-localization",
+    "title": "Deep Learning Algorithm Engineer / Expert (Localization)",
+    "company": "酷… (AIJobs.net)",
+    "link": "https://aijobs.net/job/--261267/",
+    "source": "aijobs",
+    "score": 2,
+    "rationale": "Senior deep-learning and evaluation-toolchain work is AI-focused, but this Shanghai/Beijing embedded-vehicle role requires CUDA, SLAM, visual-odometry and low-level computer-vision specialization outside the target.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "l-aijobs-senior-machine-vision-expert",
+    "title": "Senior Machine Vision Expert",
+    "company": "L… (AIJobs.net)",
+    "link": "https://aijobs.net/job/--260982/",
+    "source": "aijobs",
+    "score": 1,
+    "rationale": "Production computer-vision and multimodal-model work is AI-adjacent, but this mid-level Beijing/Shanghai manufacturing role is outside the commute tiers and not a GenAI systems target.",
+    "date": "2026-08-04",
+    "tier": "outside"
   }
 ]
