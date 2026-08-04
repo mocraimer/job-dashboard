@@ -1879,5 +1879,170 @@
     "rationale": "AI scope is adjacent, but this Berlin-based internal-consulting role is outside the commute tiers and not a target engineering or management role.",
     "date": "2026-08-03",
     "tier": "outside"
+  },
+  {
+    "id": "atria-staff-software-engineer-agentic-ai",
+    "title": "Staff Software Engineer, Agentic AI",
+    "company": "Atria",
+    "link": "https://share.atria.org/engineering",
+    "source": "hn",
+    "score": 9,
+    "rationale": "Direct staff-level agentic-care AI role; global fully remote and direct agents/LLM platform overlap.",
+    "date": "2026-08-04",
+    "tier": "c"
+  },
+  {
+    "id": "atria-software-engineer-product",
+    "title": "Software Engineer, Product",
+    "company": "Atria",
+    "link": "https://share.atria.org/engineering",
+    "source": "hn",
+    "score": 6,
+    "rationale": "Global remote full-stack product role with Express/React; senior level and healthcare-domain fit need confirmation.",
+    "date": "2026-08-04",
+    "tier": "c"
+  },
+  {
+    "id": "nice-senior-ai-software-engineer",
+    "title": "Senior AI Software Engineer",
+    "company": "NiCE",
+    "link": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-3027",
+    "source": "arbeitnow",
+    "score": 8,
+    "rationale": "Exceptional production agents, MCP, evaluations, voice and TypeScript/Node/React overlap; hybrid location and office-days policy are not stated. Req 11563.",
+    "date": "2026-08-04",
+    "tier": "pending"
+  },
+  {
+    "id": "hatchet-product-engineer",
+    "title": "Product Engineer",
+    "company": "Hatchet",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 6,
+    "rationale": "EU-remote product engineering around durable execution used by AI workloads; Go depth and seniority are the concrete questions.",
+    "date": "2026-08-04",
+    "tier": "c"
+  },
+  {
+    "id": "featurebase-full-stack-product-engineer",
+    "title": "Full-stack Product Engineer",
+    "company": "Featurebase",
+    "link": "https://go.featurebase.app/careers",
+    "source": "hn",
+    "score": 6,
+    "rationale": "EU-remote end-to-end TypeScript/Node/React role with strong product ownership; GenAI scope and seniority are not stated.",
+    "date": "2026-08-04",
+    "tier": "c"
+  },
+  {
+    "id": "railway-senior-product-engineer-scalability",
+    "title": "Senior Product Engineer: Scalability",
+    "company": "Railway",
+    "link": "https://railway.com/careers",
+    "source": "hn",
+    "score": 5,
+    "rationale": "Worldwide-remote senior product engineering at an agentic-computing infrastructure company; role is platform rather than GenAI systems.",
+    "date": "2026-08-04",
+    "tier": "c"
+  },
+  {
+    "id": "stackadapt-applied-machine-learning-scientist",
+    "title": "Applied Machine Learning Scientist",
+    "company": "StackAdapt",
+    "link": "https://www.arbeitnow.com/jobs/companies/stackadapt/applied-machine-learning-scientist-188372",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Applied-ML scope is relevant, but seniority, location/remote eligibility and the complete requirements were not established from the board record.",
+    "date": "2026-08-04",
+    "tier": "pending"
+  },
+  {
+    "id": "sudowrite-senior-full-stack-developer",
+    "title": "Senior Full-Stack Developer",
+    "company": "Sudowrite",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 3,
+    "rationale": "AI writing product and backend/React scope align, but the role is explicitly US-remote.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "aptura-ai-mts-applied-ai",
+    "title": "MTS, Applied AI",
+    "company": "Aptura AI",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 3,
+    "rationale": "Evaluation and RL-environment work aligns with LLM evaluation experience, but it is London onsite/hybrid.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "aptura-ai-mts-swe-product",
+    "title": "MTS, SWE / Product",
+    "company": "Aptura AI",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 3,
+    "rationale": "AI-dataset platform engineering is adjacent, but this London onsite/hybrid role is outside the commute tiers.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "shared-context-lab-member-of-technical-staff",
+    "title": "Member of Technical Staff",
+    "company": "Shared Context Lab",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Strong long-horizon agents, memory and evaluation overlap, but the opening is onsite in San Francisco or New York.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "hestus-machine-learning-engineer-python-ml",
+    "title": "Machine Learning Engineer (Python, ML)",
+    "company": "Hestus",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 2,
+    "rationale": "ML product work is relevant, but the Peninsula onsite location and CAD-domain focus are incompatible.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "furtherai-staff-ai-engineer",
+    "title": "Staff AI Engineer",
+    "company": "FurtherAI",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Excellent insurance-agent reliability, orchestration and evaluation overlap, but every role is onsite in San Francisco.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "harmony-ai-backend-engineer",
+    "title": "Backend Engineer",
+    "company": "Harmony AI",
+    "link": "https://news.ycombinator.com/item?id=49164584",
+    "source": "hn",
+    "score": 2,
+    "rationale": "Python/TypeScript/Kubernetes backend work at an AI manufacturer is adjacent, but it is onsite/deployed in the United States.",
+    "date": "2026-08-04",
+    "tier": "outside"
+  },
+  {
+    "id": "dataleap-founding-forward-deployed-engineer-fde",
+    "title": "Founding Forward Deployed Engineer (FDE)",
+    "company": "Dataleap",
+    "link": "https://www.arbeitnow.com/jobs/companies/dataleap/founding-forward-deployed-engineer-fde-munich-279649",
+    "source": "arbeitnow",
+    "score": 2,
+    "rationale": "Agentic-enterprise deployment is relevant, but the job is based at DACH customers in Munich.",
+    "date": "2026-08-04",
+    "tier": "outside"
   }
 ]
