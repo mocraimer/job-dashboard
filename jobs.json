@@ -2341,5 +2341,71 @@
     "tier": "outside",
     "date": "2026-08-05",
     "id": "distribusion-technologies-senior-engineering-manager-infra-domain-all-genders"
+  },
+  {
+    "id": "ojin-product-engineer",
+    "title": "Product Engineer",
+    "company": "Ojin",
+    "link": "https://news.ycombinator.com/item?id=49184927",
+    "source": "hn",
+    "score": 8,
+    "rationale": "Strong production voice-agent overlap (Python/TypeScript, WebRTC, AWS) and remote CET±2; the advertised 3–5 year range and Israel work authorization need confirmation.",
+    "date": "2026-08-06",
+    "tier": "c"
+  },
+  {
+    "id": "langfuse-senior-product-engineer",
+    "title": "Senior Product Engineer",
+    "company": "Langfuse",
+    "link": "https://jobs.ashbyhq.com/langfuse/a2c4e24c-21d1-4a9f-8d46-422d0592efd6",
+    "source": "hn",
+    "score": 5,
+    "rationale": "Exceptional LLM observability, evaluation, TypeScript and end-to-end product fit, but the Europe role expects one week per month in Berlin, exceeding the hybrid policy.",
+    "date": "2026-08-06",
+    "tier": "outside"
+  },
+  {
+    "id": "langfuse-senior-backend-engineer-data-infrastructure",
+    "title": "Senior Backend Engineer (Data Infrastructure)",
+    "company": "Langfuse",
+    "link": "https://jobs.ashbyhq.com/langfuse/1225fa3d-d590-41d2-b798-ef927320fb2e",
+    "source": "hn",
+    "score": 5,
+    "rationale": "Direct LLM-tracing/evaluation platform and TypeScript backend fit; high-throughput ClickHouse infrastructure is adjacent, while one Berlin week monthly conflicts with the hybrid policy.",
+    "date": "2026-08-06",
+    "tier": "outside"
+  },
+  {
+    "id": "langfuse-senior-product-engineer-growth",
+    "title": "Senior Product Engineer (Growth)",
+    "company": "Langfuse",
+    "link": "https://jobs.ashbyhq.com/langfuse/71a67633-5770-481b-9fb3-22e4f27cbca1",
+    "source": "hn",
+    "score": 5,
+    "rationale": "AI-product and TypeScript fit with agentic-development exposure, but the role is growth/analytics-focused and requires one week per month in Berlin.",
+    "date": "2026-08-06",
+    "tier": "outside"
+  },
+  {
+    "id": "langfuse-senior-backend-engineer-iam-and-billing",
+    "title": "Senior Backend Engineer (IAM and Billing)",
+    "company": "Langfuse",
+    "link": "https://jobs.ashbyhq.com/langfuse/69bc6e7a-0304-4d81-ae72-7ccf5652a053",
+    "source": "hn",
+    "score": 4,
+    "rationale": "Multi-tenant backend and fintech-adjacent IAM/billing work fit, but this is not a core GenAI role and requires one week per month in Berlin.",
+    "date": "2026-08-06",
+    "tier": "outside"
+  },
+  {
+    "id": "n8n-forward-deployed-engineer-emea",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "n8n",
+    "link": "https://www.arbeitnow.com/jobs/companies/n8n/forward-deployed-engineer-emea-germany-139597",
+    "source": "arbeitnow",
+    "score": 3,
+    "rationale": "Relevant production integrations, APIs and AI-workflow platform, but the role requires 50–60% on-site travel across Europe and an existing right to work outside Germany.",
+    "date": "2026-08-06",
+    "tier": "outside"
   }
 ]
